@@ -1,31 +1,26 @@
 <p align="center">
   <img src="https://github.com/BlockOne987/BlockOne987/assets/100479204/81cdcb10-a952-490b-83ee-65d12aca477c" alt="121612208" />
 </p>
-
 <p align="center">
   MIT License
 </p>
-
 <p align="center">
-  Copyright (c) 2023 BlockOne987™️
+  Copyright (c) 2026 BlockOne987.com
 </p>
-
 <p align="center">
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
   in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  to use, copy, modify, merge, publish, distribute, sublicense, and or sell
   copies of the Software, and to permit persons to whom the Software is
   furnished to do so, subject to the following conditions:
 </p>
-
 <p align="center">
   The above copyright notice and this permission notice shall be included in all
   copies or substantial portions of the Software.
 </p>
-
 <p align="center">
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
